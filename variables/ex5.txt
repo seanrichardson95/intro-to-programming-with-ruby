@@ -1,0 +1,3 @@
+In the first program, x = 3. In the second program, you'll get an error because the x's scope is within the block, therefore it's not available outside of the block.
+
+You won't get an error for the first program.
