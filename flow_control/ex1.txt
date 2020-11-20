@@ -1,0 +1,5 @@
+1. false
+2. false
+3. false #while 4 is a truthy value, it is not equal to the boolean value, 'true'. (reminder: true == 4 was the expression)
+4. true
+5. true
