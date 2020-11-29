@@ -1,0 +1,14 @@
+What is exception handling and what problem does it solve?
+
+My answer:
+Exception handling is using a "begin" "rescue" "end" structure to your code
+that allows your code to continue running when there is an error.
+
+This can also be helpful for determining where the error is.
+
+It is often used when your program is interacting with the unpredictable outside world, allowing it
+to run even when it comes across an error.
+
+LS answer:
+Exception handling is a structure used to handle the possibility of an error occurring in a program. 
+It is a way of handling the error by changing the flow of control without exiting the program entirely.
